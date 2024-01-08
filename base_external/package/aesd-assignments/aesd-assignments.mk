@@ -5,9 +5,10 @@
 #
 ##############################################################
 
-# 'assignments-3-and-later-sergeynv-coursera' repo, 'assignment-4-part-1' tag/release
-# https://github.com/cu-ecen-aeld/assignments-3-and-later-sergeynv-coursera/releases/tag/assignment-4-part-1
-AESD_ASSIGNMENTS_VERSION = 'e807d915ae30619b36bd44ffbd6d38644f568bc4'
+# Repo:    assignments-3-and-later-sergeynv-coursera
+# Commit:  [a4-p2] finder-test.sh: write output to /tmp/assignmentX-result.txt
+# https://github.com/cu-ecen-aeld/assignments-3-and-later-sergeynv-coursera/commit/7ff398383c24a27ff463040fc8017e2ca8afd251
+AESD_ASSIGNMENTS_VERSION = '7ff398383c24a27ff463040fc8017e2ca8afd251'
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-sergeynv-coursera.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
